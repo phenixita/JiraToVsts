@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IC6.JiraToVSTS.Console" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="VstsPAT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">xxxxxxxxxxxxxxxxxxx</Value>
+    </Setting>
+    <Setting Name="VstsURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://aaaaaaaaaaaaaaaa.visualstudio.com</Value>
+    </Setting>
+    <Setting Name="JiraURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://ffffffffffff.atlassian.net</Value>
+    </Setting>
+    <Setting Name="JiraPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">qqqqqqqqqqqqq</Value>
+    </Setting>
+    <Setting Name="JiraUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">fffffffffffffff</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
